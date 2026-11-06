@@ -1,0 +1,26 @@
+[
+    {
+        "full_name": "kenneth cuevo",
+        "age": "23",
+        "gender": "Male",
+        "contact_number": "09557889885",
+        "address": "San Leonardo Nueva Ecija",
+        "membership_type": "Yearly",
+        "start_date": "2026-11-05",
+        "expiration_date": "2027-11-05",
+        "member_id": "PG-0001",
+        "status": "Active"
+    },
+    {
+        "full_name": "kyle garcia",
+        "age": "24",
+        "gender": "Male",
+        "contact_number": "09942826752",
+        "address": "Talavera Nueva Ecija",
+        "membership_type": "Monthly",
+        "start_date": "2026-11-06",
+        "expiration_date": "2026-12-06",
+        "member_id": "PG-0002",
+        "status": "Active"
+    }
+]
